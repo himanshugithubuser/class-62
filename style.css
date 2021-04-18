@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    font-variant: small-caps;
+    font-family: cursive;
+}
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+#app {
+    background: linear-gradient(turquoise 0%, orange 100%);
+}
+#game {
+    background: linear-gradient(#42b0f5 0%, #1f18ed 100%);
+}
+img:hover {transform:scale(0.9)}
+
+#mycarousel {
+    background-color: aquamarine;
+}
+#mycarousel img {
+    height: 300px;
+    margin-top:35px;
+}
+.carousel-inner h1 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+    color:white
+}
+.container {
+    text-align: center;
+}
